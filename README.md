@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Ola!! 🖖
+
+Sou Pedro Paulo e seja bem vindo ao meu perfil!!
+
+Comecei agora a conhecer o mundo da programação então não tem muito coisa ainda, 
+mas falarei um pouco sobre mim.
+
+- :man_technologist: Amo escrever codigos para meus pequenos algoritmos
+
+- ☕ Amo linguagem java, meu favorito
+
+- 👨🏻‍🎓 Pretendo cursar Engenharia de Software na Universidade Federal de Quixadá
+
+
+
+Fique a vontade!!! 😉
