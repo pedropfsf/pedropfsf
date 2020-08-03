@@ -24,9 +24,11 @@ mas falarei um pouco sobre mim.
 
 - :man_technologist: Amo escrever codigos para meus pequenos algoritmos
 
-- ☕ Amo linguagem java, meu favorito
+- ☕ Estou focando meus estudos em Java, pelo amor que tenho pela linguagem
 
-- 👨🏻‍🎓 Pretendo cursar Engenharia de Software na Universidade Federal de Quixadá
+- 🎸 Amante de musica
+
+- 🎮 Um completo viciado em jogos
 
 
 
