@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Ola!! 🖖
+# Ola!! 👋
 
 Sou Pedro Paulo e seja bem vindo ao meu perfil!!
 
