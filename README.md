@@ -32,4 +32,4 @@ mas falarei um pouco sobre mim.
 
 
 
-Fique a vontade!!! 😉
+O meu perfil esta sem os repositorios por causa de alguns problemas com git e o notebook, acabei excluindo sem querer, por enquanto estou ausente do github.
