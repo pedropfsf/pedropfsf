@@ -26,9 +26,6 @@ mas falarei um pouco sobre mim.
 
 - ☕ Estou focando meus estudos em Java, pelo amor que tenho pela linguagem
 
-- 🎸 Amante de musica
-
-- 🎮 Um completo viciado em jogos
 
 
 
