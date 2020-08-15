@@ -24,9 +24,9 @@ mas falarei um pouco sobre mim.
 
 - :man_technologist: Amo escrever codigos para meus pequenos algoritmos
 
-- ☕ Estou focando meus estudos em Java, pelo amor que tenho pela linguagem
+- ☕ Estou focando meus estudos em Java, pelo amor que tenho pela lingua
 
 
 
 
-O meu perfil esta sem os repositorios por causa de alguns problemas com git e o notebook, acabei excluindo sem querer, por enquanto estou ausente do github.
+Estou meio ausente no github, sem os repositórios, logo logo voltarei para postar mas dos meus programas.
