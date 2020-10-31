@@ -24,7 +24,7 @@ mas falarei um pouco sobre mim.
 
 - :man_technologist: Focado na programação para resolver problemas 
 
-- ☕ básico e POO em java
+- ☕ básico de java
 
 - 📚 Estudando as tecnologias envolvidas na área de desenvolvimento web   
 
