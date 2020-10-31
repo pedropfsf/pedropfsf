@@ -22,11 +22,11 @@ Sou Pedro Paulo e seja bem vindo ao meu perfil!!
 Comecei agora a conhecer o mundo da programação então não tem muito coisa ainda, 
 mas falarei um pouco sobre mim.
 
-- :man_technologist:Focado na programação para resolver problemas
+- :man_technologist: Focado na programação para resolver problemas 
 
 - ☕ básico e POO em java
 
-- 📚 Focado nas tecnologias envolvidas na área de desenvolvimento web   
+- 📚 Estudando as tecnologias envolvidas na área de desenvolvimento web   
 
 
 
