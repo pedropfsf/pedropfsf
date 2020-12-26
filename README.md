@@ -26,7 +26,7 @@ mas falarei um pouco sobre mim.
 
 - ❤ Programo por puro hobby
 
-- 📚 Estudando as tecnologias envolvidas na área de desenvolvimento web   
+- 📚 Estudando as tecnologias envolvidas na área de desenvolvimento web e mobile
 
 
 
