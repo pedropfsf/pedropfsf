@@ -28,5 +28,4 @@ mas falarei um pouco sobre mim.
 
 - 📚 Estudando as tecnologias envolvidas na área de desenvolvimento web e mobile
 
-
-
+- 🎨 Estudando UI/UX design para aplicar esses conhecimentos em meus projetos
