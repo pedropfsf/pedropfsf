@@ -39,9 +39,6 @@ Seja bem vindo ao meu perfil!! ☺
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
 
-### Tecnologias em estudo
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-
 ## Contato
 <div style="display: inline-block;">
   <a href="https://www.linkedin.com/in/pedro-paulo-082b82201/" target="_blank">
