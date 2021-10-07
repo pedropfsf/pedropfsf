@@ -43,6 +43,9 @@ Seja bem vindo ao meu perfil!! ☺
 ## Contato
 <div style="display: inline-block;">
   <a href="https://www.linkedin.com/in/pedro-paulo-082b82201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="image"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="image linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/pyedrown/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="image instagram"/>
   </a>
 </div>
