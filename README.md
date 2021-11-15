@@ -24,7 +24,7 @@ Seja bem vindo ao meu perfil!! ☺
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pyedrown&theme=tokyonight&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyedrown&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 Atualmente estou aprendendo Jquery
+- 🌱 Atualmente estou aprendendo Jquery, Clean Code, UI/UX design
 - 📫 Como entrar em contato comigo? pedropaulo.developer@gmail.com
 - 😄 Pronomes: Ele, Dele
 - :man_technologist: Focado na programação para resolver problemas
@@ -42,6 +42,7 @@ Seja bem vindo ao meu perfil!! ☺
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
 </div>
 
 ## Contato
