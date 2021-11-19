@@ -32,7 +32,7 @@ Seja bem vindo ao meu perfil!! ☺
 - 📚 Estudando as tecnologias envolvidas na área de desenvolvimento web e mobile
 
 ## Tecnologias
-<div style="display: inline-block;">
+<div style="display: inline-block;" align="center">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
