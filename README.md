@@ -46,7 +46,7 @@ Seja bem vindo ao meu perfil!! ☺
 </div>
 
 ## Contato
-<div style="display: inline-block;">
+<div style="display: inline-block;" align="center">
   <a href="https://www.linkedin.com/in/pedro-paulo-082b82201/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="image linkedin"/>
   </a>
