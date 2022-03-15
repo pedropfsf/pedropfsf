@@ -21,8 +21,8 @@ Seja bem vindo ao meu perfil!! ☺
 
 ![alt text](https://github.com/AstronautoLunar/AstronautoLunar/blob/master/astronautColors.gif)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pyedrown&theme=tokyonight&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyedrown&theme=tokyonight&layout=compact&card_width=230)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstronautoLunar&theme=tokyonight&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstronautoLunar&theme=tokyonight&layout=compact&card_width=230)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 Atualmente estou estudando TDD e testes unitários em Jest
 - 📫 Como entrar em contato comigo? pedropaulo.developer@gmail.com
