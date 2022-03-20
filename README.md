@@ -28,7 +28,7 @@ Seja bem vindo ao meu perfil!! ☺
 - 📫 Como entrar em contato comigo? pedropaulo.developer@gmail.com
 - :man_technologist: Focado na programação para resolver problemas
 - ❤ Programo por puro hobby
-- 📚 Me aprofundando nas tecnologias envolvidas na área de desenvolvimento web e mobile
+- 📚 Mim aprofundando nas tecnologias envolvidas na área de desenvolvimento web e mobile
 
 ## Tecnologias
 <div style="display: inline-block;" align="center">
