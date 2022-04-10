@@ -24,11 +24,10 @@ Seja bem vindo ao meu perfil!! ☺
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstronautoLunar&theme=tokyonight&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstronautoLunar&theme=tokyonight&layout=compact&card_width=230)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 Atualmente estou estudando Princípios SOLID e me aperfeiçõando em React Native
 - 📫 Como entrar em contato comigo? pedropaulo.developer@gmail.com
 - :man_technologist: Focado na programação para resolver problemas
 - ❤ Programo por puro hobby
-- 📚 Mim aprofundando nas tecnologias envolvidas na área de desenvolvimento web e mobile
+- 📚 Atualmente estou estudando Princípios SOLID e me aperfeiçoando em React Native
 
 ## Tecnologias
 <div style="display: inline-block;" align="center">
