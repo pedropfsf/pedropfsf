@@ -27,7 +27,7 @@ Seja bem vindo ao meu perfil!! ☺
 - 📫 Como entrar em contato comigo? pedropaulo.developer@gmail.com
 - :man_technologist: Focado na programação para resolver problemas
 - ❤ Programo por puro hobby
-- 📚 Atualmente estou estudando Princípios SOLID e me aperfeiçoando em Typescript
+- 📚 Atualmente estou estudando Banco de dados, e me aperfeiçoando em Typescript e React Native
 
 ## Tecnologias
 <div style="display: inline-block;" align="center">
