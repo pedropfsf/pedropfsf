@@ -21,12 +21,11 @@ Seja bem vindo ao meu perfil!! ☺
 
 ![alt text](https://github.com/AstronautoLunar/AstronautoLunar/blob/master/astronautColors.gif)
 
-<strong>Sou um desenvolvedor fullStack focado em javascript, tenho conhecimentos de Clean Code, Princípios SOLID, TDD e testes unitários com Jest</strong>
+<strong>Sou um desenvolvedor front-end apaixonado em criar aplicativos móveis e sempre em constante evolução</strong>
 
-- 📫 Como entrar em contato comigo? pedropaulo.developer@gmail.com
 - :man_technologist: Focado na programação para resolver problemas
 - ❤ Programo por puro hobby
-- 📚 Atualmente estou estudando Banco de dados, e me aperfeiçoando em Typescript e React Native
+- 📚 Atualmente estou estudando back-end com node.js
 
 ## Tecnologias
 <div style="display: inline-block;" align="center">
