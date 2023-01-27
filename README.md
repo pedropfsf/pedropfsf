@@ -19,13 +19,20 @@ Here are some ideas to get you started:
 
 Seja bem vindo ao meu perfil!! ☺
 
-![alt text](https://github.com/AstronautoLunar/AstronautoLunar/blob/master/astronautColors.gif)
+<img
+  src="https://github.com/Pedropfsf/Pedropfsf/blob/master/city-pixel-art.gif"
+  width="100%"
+/>
 
 <strong>Sou um desenvolvedor front-end apaixonado em criar aplicativos móveis e sempre em constante evolução</strong>
 
-- :man_technologist: Focado na programação para resolver problemas
-- ❤ Programo por puro hobby
-- 📚 Atualmente estou estudando back-end com node.js
+- :man_technologist: Focado na programação para resolver problemas e por puro hobby
+- 📚 Atualmente estou me aprimorando em Desenvolvimento Mobile com React Native, UI Design e inglês
+
+<span>|</span><span>---------------------------------------------------------------</span><br>
+<span>|</span>  <em>"O aprendizado é como o horizonte: não há limites."</em><br>
+<span>|</span> <strong>~Lucimara H.d.S</strong><br>
+<span>|</span><span>---------------------------------------------------------------</span>
 
 ## Tecnologias
 <div style="display: inline-block;" align="center">
