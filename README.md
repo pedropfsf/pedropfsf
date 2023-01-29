@@ -24,7 +24,7 @@ Seja bem vindo ao meu perfil!! ☺
   width="100%"
 />
 
-<strong>Sou um desenvolvedor front-end apaixonado em criar aplicativos móveis e sempre em constante evolução</strong>
+<strong>Sou um desenvolvedor front-end apaixonado em criar aplicativos móveis e web e sempre em constante evolução</strong>
 
 - :man_technologist: Focado na programação para resolver problemas e por puro hobby
 - 📚 Atualmente estou me aprimorando em Desenvolvimento Mobile com React Native, UI Design e inglês
