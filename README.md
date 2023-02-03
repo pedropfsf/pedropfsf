@@ -50,10 +50,3 @@ Seja bem vindo ao meu perfil!! ☺
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
-
-## Contato
-<div style="display: inline-block;" align="left">
-  <a href="https://www.linkedin.com/in/pedro-paulo-082b82201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="image linkedin"/>
-  </a>
-</div>
