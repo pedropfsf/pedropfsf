@@ -27,7 +27,7 @@ Seja bem vindo ao meu perfil!! ☺
 <strong>Sou um desenvolvedor front-end apaixonado em criar aplicativos móveis e web e sempre em constante evolução</strong>
 
 - :man_technologist: Focado na programação para resolver problemas e por puro hobby
-- 📚 Atualmente estou me aprimorando no Vue.js
+- 📚 Atualmente estou me aprimorando em Vue.js
 
 <span>|</span><span>---------------------------------------------------------------</span><br>
 <span>|</span>  <em>"O aprendizado é como o horizonte: não há limites."</em><br>
