@@ -27,7 +27,7 @@ Seja bem vindo ao meu perfil!! ☺
 <strong>Sou um desenvolvedor front-end apaixonado em criar aplicativos móveis e web
 
 - :man_technologist: Focado na programação para resolver problemas e por puro hobby
-- 📚 Atualmente estou me aprimorando em Vue.js, Quasar e Pinia
+- 📚 Atualmente estou estudando Flutter
 
 <span>|</span><span>---------------------------------------------------------------</span><br>
 <span>|</span>  <em>"O aprendizado é como o horizonte: não há limites."</em><br>
@@ -51,4 +51,5 @@ Seja bem vindo ao meu perfil!! ☺
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
