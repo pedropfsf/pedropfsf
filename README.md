@@ -24,7 +24,7 @@ Seja bem vindo ao meu perfil!! ☺
   width="100%"
 />
 
-<strong>Meu nome é Pedro, tenho 21 anos e sou um desenvolvedor front-end e mobile, faço parte do time da <a href="https://saltfix.com.br/">Saltfix</a> e crio aplicativos nas horas vagas com Flutter ou React Native</strong>
+<strong>Meu nome é Pedro, tenho 21 anos e sou um desenvolvedor Fullstack, faço parte do time da <a href="https://saltfix.com.br/">Saltfix</a> e crio aplicativo nas horas vagas heheh</strong>
 
 - :man_technologist: Focado na programação para resolver problemas e por puro hobby
 - 📚 Atualmente estou estudando Nest.js, Typeorm, Mysql
@@ -54,4 +54,6 @@ Seja bem vindo ao meu perfil!! ☺
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  
 </div>
