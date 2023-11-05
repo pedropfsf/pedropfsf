@@ -24,10 +24,7 @@ Seja bem vindo ao meu perfil!! ☺
   width="100%"
 />
 
-<strong>Meu nome é Pedro, tenho 21 anos e sou um desenvolvedor Fullstack, faço parte do time da <a href="https://saltfix.com.br/">Saltfix</a> e faço aplicativos nas horas vagas, fique livre para conhecer os meus projetos</strong>
-
-- :man_technologist: Focado na programação para resolver problemas e por puro hobby
-- 📚 Atualmente estou me aprimorando mais no flutter
+<strong>Tenho 22 anos e sou um desenvolvedor Fullstack, faço parte do time da <a href="https://saltfix.com.br/">Saltfix</a> e faço aplicativos nas horas vagas, fique livre para conhecer os meus projetos</strong>
 
 <span>|</span><span>---------------------------------------------------------------</span><br>
 <span>|</span>  <em>"O aprendizado é como o horizonte: não há limites."</em><br>
