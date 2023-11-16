@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Ola!! 👋
-
-Seja bem vindo ao meu perfil!! ☺
+# Iaeee!! 👋
 
 <img
   src="https://github.com/Pedropfsf/Pedropfsf/blob/master/city-pixel-art.gif"
   width="100%"
 />
 
-<strong>Tenho 22 anos e sou um desenvolvedor Fullstack, faço parte do time da <a href="https://saltfix.com.br/">Saltfix</a> e faço aplicativos nas horas vagas, fique livre para conhecer os meus projetos</strong>
+<strong>Sou Pedro Paulo, Tenho 22 anos e sou um desenvolvedor Fullstack, faço parte do time da <a href="https://saltfix.com.br/">Saltfix</a> e faço aplicativos nas horas vagas, fique livre para conhecer os meus projetos</strong>
 
 <span>|</span><span>---------------------------------------------------------------</span><br>
 <span>|</span>  <em>"O aprendizado é como o horizonte: não há limites."</em><br>
@@ -38,8 +36,11 @@ Seja bem vindo ao meu perfil!! ☺
   <img title="Javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img title="Typescript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img title="React.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img title="Shadcn/ui" width="40" height="40" src="https://github.com/pedropfsf/pedropfsf/assets/65714953/76c18e42-4198-4e60-831e-d3682a002f88" />
+  <img title="Tailwind CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img title="Next.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img title="Redux.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img title="Redux.js" width="42" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img title="Redux Saga" height="40" src="https://github.com/pedropfsf/pedropfsf/assets/65714953/bb7aec3c-6214-43e7-a683-380b2b320a63" />
   <img title="Jquery.js" width="40" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img title="Vue.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img title="Quasar.js" width="40" height="40" src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" />
@@ -50,5 +51,6 @@ Seja bem vindo ao meu perfil!! ☺
   <img title="Dart" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img title="Flutter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img title="Figma" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
   
 </div>
