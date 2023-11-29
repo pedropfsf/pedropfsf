@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   width="100%"
 />
 
-<strong>Sou Pedro Paulo, Tenho 22 anos e sou um desenvolvedor Front-end, faço parte do time da <a href="https://saltfix.com.br/">Saltfix</a> e faço aplicativos nas horas vagas, fique livre para conhecer os meus projetos</strong>
+<strong>Sou Pedro Paulo, Tenho 22 anos e sou um desenvolvedor Fullstack, faço parte do time da <a href="https://saltfix.com.br/">Saltfix</a> e faço aplicativos nas horas vagas, fique livre para conhecer os meus projetos</strong>
 
 <span>|</span><span>---------------------------------------------------------------</span><br>
 <span>|</span>  <em>"O aprendizado é como o horizonte: não há limites."</em><br>
