@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 <strong>Sou Pedro Paulo, Tenho 22 anos, faço parte do time da <a href="https://saltfix.com.br/">Saltfix</a> e faço aplicativos nas horas vagas, fique livre para conhecer os meus projetos</strong>
 
-<span>|</span><span>---------------------------------------------------------------</span><br>
+<span>|</span><span>------------------------------------------------------------------------</span><br>
 <span>|</span>  <em>"O aprendizado é como o horizonte: não há limites."</em><br>
 <span>|</span> <strong>~Lucimara H.d.S</strong><br>
-<span>|</span><span>---------------------------------------------------------------</span>
+<span>|</span><span>------------------------------------------------------------------------</span>
 
 ## Tecnologias
 <div style="display: flex; flex-wrap: wrap">
