@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   width="100%"
 />
 
-<strong>Sou Pedro Paulo, Tenho 22 anos e faço aplicativos nas horas vagas, fique livre para conhecer os meus projetos</strong>
+<strong>Sou Pedro Paulo, Tenho 23 anos e faço aplicativos nas horas vagas, fique livre para conhecer os meus projetos</strong>
 
 <span>|</span><span>------------------------------------------------------------------------</span><br>
 <span>|</span>  <em>"O aprendizado é como o horizonte: não há limites."</em><br>
@@ -52,5 +52,4 @@ Here are some ideas to get you started:
   <img title="Flutter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img title="Figma" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-  
 </div>
