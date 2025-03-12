@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   width="100%"
 />
 
-<strong>Sou Pedro Paulo, Tenho 23 anos e faço aplicativos nas horas vagas, fique a vontade para conhecer os meus projetos</strong>
+<strong>Sou Pedro Paulo, Tenho 23 anos e faço aplicativos nas horas vagas, fique a vontade para conhecer os projetos</strong>
 
 <span>|</span><span>------------------------------------------------------------------------</span><br>
 <span>|</span>  <em>"O aprendizado é como o horizonte: não há limites."</em><br>
